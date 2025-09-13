@@ -11,6 +11,5 @@ Power BI dashboard that provides  the following:
 
 From the above KPIs we derive the following:
 Doctor's Utilization, Speciality of Medical services provided, Appointment Trend, Patient to Doctor ratio, Patient Care Management
-Hospital Efficiency KPIs
 <img width="420" height="70" alt="image" src="https://github.com/user-attachments/assets/c9030bad-4472-4558-9609-d8b27446c1f9" />
 
