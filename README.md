@@ -62,8 +62,7 @@ Improve patient flow and reduce wait times
 
 Make data-driven decisions for better resource allocation
 
-
-https://github.com/jubi-43/HOSPITAL-DASHBOARD/blob/main/HOSPITAL_MANAGEMENT_DASHBOARD.png
+![Hospital Dashboard](./HOSPITAL_MANAGEMENT_DASHBOARD.png)
 
    
 
